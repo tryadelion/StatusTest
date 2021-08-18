@@ -11,6 +11,16 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Api Test A0K
+  - url: $API_ENDPOINT_BASE/userInformation?$TOKEN_A0K
+  - method: POST
+  - headers:
+      - "Content-Type: application/x-www-form-urlencoded"
+      - "$APP_AUTH_A0K"
+      - "$AUTH_A0K"
+  - expectedStatusCodes:
+      - 200
+  - maxResponseTime: 2000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
