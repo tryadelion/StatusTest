@@ -12,7 +12,7 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: Api Test A0K
-  - url: $API_ENDPOINT_BASE/userInformation?$TOKEN_A0K
+  - url: ${{ format('{0}/userInformation?{1}',  $API_ENDPOINT_BASE, $TOKEN_A0K) }}
   - method: POST
   - headers:
       - "Content-Type: application/x-www-form-urlencoded"
