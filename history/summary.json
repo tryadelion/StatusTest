@@ -76,9 +76,9 @@
     "url": "$API_ENDPOINT_BASE/userInformation?$TOKEN_A0K",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-test-a0-k",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 830,
     "timeMonth": 811,
     "timeYear": 811,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-07": 0
+    }
   }
 ]
