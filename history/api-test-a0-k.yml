@@ -1,7 +1,7 @@
 url: $API_ENDPOINT_BASE/userInformation?$TOKEN_A0K
 status: up
 code: 200
-responseTime: 912
-lastUpdated: 2021-11-05T23:17:53.906Z
+responseTime: 879
+lastUpdated: 2021-11-06T23:17:43.958Z
 startTime: Wed Aug 18 2021 13:33:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
