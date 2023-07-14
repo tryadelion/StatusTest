@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 161,
-    "timeWeek": 88,
-    "timeMonth": 94,
-    "timeYear": 106,
-    "dailyMinutesDown": {}
+    "time": 104,
+    "timeDay": 338,
+    "timeWeek": 142,
+    "timeMonth": 107,
+    "timeYear": 107,
+    "dailyMinutesDown": {
+      "2023-07-14": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -88,7 +90,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-test-a0-k",
     "status": "down",
-    "uptime": "37.04%",
+    "uptime": "37.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -99,7 +101,7 @@
     "timeMonth": 1282,
     "timeYear": 1822,
     "dailyMinutesDown": {
-      "2023-07-14": 44,
+      "2023-07-14": 1034,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
