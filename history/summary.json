@@ -15,7 +15,9 @@
     "timeWeek": 112,
     "timeMonth": 99,
     "timeYear": 106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-17": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -89,7 +91,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-test-a0-k",
     "status": "down",
-    "uptime": "35.32%",
+    "uptime": "35.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -100,7 +102,7 @@
     "timeMonth": 895,
     "timeYear": 1822,
     "dailyMinutesDown": {
-      "2023-08-17": 29,
+      "2023-08-17": 883,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
