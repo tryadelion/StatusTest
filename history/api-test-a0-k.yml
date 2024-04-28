@@ -1,7 +1,7 @@
 url: $API_ENDPOINT_BASE/userInformation?$TOKEN_A0K
 status: down
 code: 403
-responseTime: 1006
-lastUpdated: 2024-04-27T23:15:07.539Z
+responseTime: 735
+lastUpdated: 2024-04-28T23:13:57.025Z
 startTime: 2021-08-18T13:33:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
