@@ -11,10 +11,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 117,
-    "timeDay": 76,
-    "timeWeek": 130,
-    "timeMonth": 151,
-    "timeYear": 121,
+    "timeDay": 372,
+    "timeWeek": 172,
+    "timeMonth": 160,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2024-05-01": 30
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 23,
-    "timeWeek": 157,
-    "timeMonth": 207,
-    "timeYear": 215,
+    "time": 219,
+    "timeDay": 145,
+    "timeWeek": 146,
+    "timeMonth": 205,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2023-08-25": 16
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 338,
-    "timeDay": 91,
-    "timeWeek": 336,
-    "timeMonth": 309,
-    "timeYear": 358,
+    "timeDay": 149,
+    "timeWeek": 282,
+    "timeMonth": 311,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2024-01-10": 116,
       "2023-12-15": 21,
@@ -63,8 +63,7 @@
       "2023-10-28": 23,
       "2023-09-13": 22,
       "2023-07-24": 25,
-      "2023-07-04": 21,
-      "2023-05-22": 16
+      "2023-07-04": 21
     }
   },
   {
@@ -91,18 +90,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-test-a0-k",
     "status": "down",
-    "uptime": "25.59%",
+    "uptime": "25.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1257,
-    "timeDay": 1005,
-    "timeWeek": 721,
-    "timeMonth": 2213,
-    "timeYear": 1084,
+    "time": 1253,
+    "timeDay": 934,
+    "timeWeek": 757,
+    "timeMonth": 2216,
+    "timeYear": 1085,
     "dailyMinutesDown": {
-      "2024-05-20": 35,
+      "2024-05-21": 34,
+      "2024-05-20": 1440,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
@@ -465,8 +465,7 @@
       "2023-05-26": 1440,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
-      "2023-05-23": 1440,
-      "2023-05-22": 1440
+      "2023-05-23": 1440
     }
   }
 ]
