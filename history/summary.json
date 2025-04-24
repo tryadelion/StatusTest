@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 82,
-    "timeWeek": 90,
+    "timeDay": 83,
+    "timeWeek": 89,
     "timeMonth": 102,
-    "timeYear": 111,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2024-05-01": 30
     }
@@ -26,18 +26,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 351,
-    "timeWeek": 191,
-    "timeMonth": 160,
+    "time": 216,
+    "timeDay": 312,
+    "timeWeek": 184,
+    "timeMonth": 159,
     "timeYear": 217,
-    "dailyMinutesDown": {
-      "2025-04-23": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -51,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 302,
-    "timeDay": 470,
-    "timeWeek": 449,
+    "timeDay": 162,
+    "timeWeek": 405,
     "timeMonth": 293,
-    "timeYear": 302,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2024-09-07": 51,
       "2024-09-01": 22,
@@ -85,18 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-test-a0-k",
     "status": "down",
-    "uptime": "19.14%",
+    "uptime": "19.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1429,
-    "timeDay": 841,
-    "timeWeek": 1675,
-    "timeMonth": 1795,
+    "timeDay": 937,
+    "timeWeek": 1685,
+    "timeMonth": 1791,
     "timeYear": 1545,
     "dailyMinutesDown": {
-      "2025-04-23": 1255,
+      "2025-04-24": 49,
+      "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
@@ -459,8 +458,7 @@
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
-      "2024-04-25": 1440,
-      "2024-04-24": 1440
+      "2024-04-25": 1440
     }
   }
 ]
