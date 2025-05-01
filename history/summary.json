@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 206,
-    "timeWeek": 104,
-    "timeMonth": 97,
+    "timeDay": 90,
+    "timeWeek": 105,
+    "timeMonth": 94,
     "timeYear": 109,
-    "dailyMinutesDown": {
-      "2024-05-01": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 170,
-    "timeWeek": 173,
-    "timeMonth": 151,
+    "timeDay": 361,
+    "timeWeek": 160,
+    "timeMonth": 160,
     "timeYear": 215,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 303,
-    "timeDay": 342,
-    "timeWeek": 363,
-    "timeMonth": 318,
+    "timeDay": 306,
+    "timeWeek": 383,
+    "timeMonth": 313,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2024-09-07": 51,
@@ -83,18 +81,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-test-a0-k",
     "status": "down",
-    "uptime": "19.05%",
+    "uptime": "19.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1437,
-    "timeDay": 779,
-    "timeWeek": 1401,
-    "timeMonth": 1644,
+    "timeDay": 1015,
+    "timeWeek": 1410,
+    "timeMonth": 1591,
     "timeYear": 1471,
     "dailyMinutesDown": {
-      "2025-04-30": 50,
+      "2025-05-01": 55,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -457,8 +456,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   }
 ]
