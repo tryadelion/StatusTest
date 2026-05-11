@@ -11,9 +11,9 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.92%",
     "time": 136,
-    "timeDay": 104,
-    "timeWeek": 114,
-    "timeMonth": 107,
+    "timeDay": 64,
+    "timeWeek": 111,
+    "timeMonth": 106,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2026-05-06": 148,
@@ -40,10 +40,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 193,
-    "timeDay": 283,
-    "timeWeek": 178,
-    "timeMonth": 165,
-    "timeYear": 198,
+    "timeDay": 220,
+    "timeWeek": 180,
+    "timeMonth": 166,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2026-03-18": 60,
       "2026-02-25": 72
@@ -59,15 +59,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 303,
-    "timeDay": 196,
-    "timeWeek": 307,
-    "timeMonth": 265,
+    "uptimeYear": "100.00%",
+    "time": 304,
+    "timeDay": 394,
+    "timeWeek": 319,
+    "timeMonth": 274,
     "timeYear": 302,
-    "dailyMinutesDown": {
-      "2025-05-11": 130
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -93,18 +91,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-test-a0-k",
     "status": "down",
-    "uptime": "14.91%",
+    "uptime": "14.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1918,
-    "timeDay": 710,
-    "timeWeek": 602,
-    "timeMonth": 962,
-    "timeYear": 1961,
+    "timeDay": 389,
+    "timeWeek": 568,
+    "timeMonth": 948,
+    "timeYear": 1960,
     "dailyMinutesDown": {
-      "2026-05-10": 111,
+      "2026-05-11": 120,
+      "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
@@ -467,8 +466,7 @@
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
-      "2025-05-12": 1440,
-      "2025-05-11": 1440
+      "2025-05-12": 1440
     }
   }
 ]
